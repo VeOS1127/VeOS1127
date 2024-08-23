@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ometh Dasanayake</h1>
 <h3 align="center">An undergraduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React,**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **omethdasanayaka@gmail.com**
 
